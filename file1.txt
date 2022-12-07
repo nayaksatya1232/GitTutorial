@@ -1,2 +1,3 @@
 Hello EveryOne ..This is Git Tutorial....
 Hello Its Satya Testig new Commit to 2nd File
+End of Master Edit
